@@ -8,10 +8,10 @@ Welcome to my GitHub repository! 🌟 This is a space where I bring together cre
 
 - ✨ **Responsive Design**: Ensures accessibility across all devices, including desktops, tablets, and smartphones.
 - 🌐 **Interactive Navigation**: Smooth and intuitive navigation experience using dynamic menus.
-- 🔍 **Dynamic Filtering**: Integrated project filtering using [MixItUp](https://www.kunkalabs.com/mixitup/).
+- 🔍 **Dynamic Filtering**: Integrated project filtering using MixItUp.
 - 🎨 **Customizable Themes**: Multiple color schemes available for user preference.
-- 📩 **Contact Form**: Fully functional contact form powered by [EmailJS](https://www.emailjs.com/).
-- 🌀 **Swiper Integration**: Enhanced testimonials section with [Swiper.js](https://swiperjs.com/) for seamless user engagement.
+- 📩 **Contact Form**: Fully functional contact form powered by EmailJS.
+- 🌀 **Swiper Integration**: Enhanced testimonials section with Swiper.js for seamless user engagement.
 - 📝 **Professional Blog Section**: Latest blog posts integrated with links to Medium.
 
 ---
