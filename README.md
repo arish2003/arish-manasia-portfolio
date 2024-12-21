@@ -30,15 +30,7 @@ Welcome to my GitHub repository! 🌟 This is a space where I bring together cre
 
 ---
 
-## 🌟 How to Use
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/arish2003/portfolio-website.git
-   ```
-2. Open the `index.html` file in your browser to view the website.
-
----
 
 ## 📬 Contact
 
